@@ -1,6 +1,4 @@
-Below are the **detailed setup instructions** for the entire process of setting up and deploying the **Retrieval-Augmented Generation (RAG) Model** for a **QA Bot** with a **Gradio frontend** interface.
 
----
 
 ### Part 1: Setting Up the Colab Notebook for RAG Model
 
